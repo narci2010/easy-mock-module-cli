@@ -49,9 +49,13 @@ toceanmock init
 ```
 
 4、增强功能
-支持后台多项目多模块安排 api
-把 js 改成 ts 风格 api
-改进了https://github.com/liuyingqq123/easy-mock-group-cli 生成多个 instance.js 文件的冗余和对修改造成的工作量问题
+
+- 支持后台多项目多模块安排 api
+- 把 js 改成 ts 风格 api
+- 支持同时安装官方 cli（你可以保留 easymock init）
+- 改进了https://github.com/liuyingqq123/easy-mock-group-cli 生成多个 instance.js 文件的冗余和对修改造成的工作量问题
 
 5、改进
-作者：narci2010@qq.com
+
+- 作者：narci2010@qq.com
+- 建议和意见：由于作者比较忙，有好的建议和意见，麻烦发邮件或者在本项目中提 issue。
