@@ -1,4 +1,4 @@
-## Easy Mock Group CLI
+## Easy Mock Module CLI
 
 [![npm version](https://img.shields.io/npm/v/easy-mock-group-cli.svg?style=flat-square)](https://www.npmjs.com/package/easy-mock-group-cli)
 Easy Mock Module CLI 是一个基于 [Easy Mock CLI](https://github.com/easy-mock/easy-mock-cli) 的修改, 按照文件夹分组生成 `API` 调用文件的命令行工具。
