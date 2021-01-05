@@ -29,7 +29,7 @@
     "url": "git+https://github.com/narci2010/easy-mock-module-cli.git"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "chalk": "^1.1.3",
     "commander": "^2.9.0",
     "cosmiconfig": "^5.0.5",
